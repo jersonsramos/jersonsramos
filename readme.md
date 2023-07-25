@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on my personal projects;
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
+- 🌱 I’m currently learning Angular 16 and Continuous Integration(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I was working as an I.T. instructor;
 - 📫 How to reach me: jerson@innovativesprout.com;

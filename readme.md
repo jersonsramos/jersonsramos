@@ -11,6 +11,7 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![Jerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jersonsramos)](https://github.com/jersonsramos/github-readme-stats)
 
 - 👨🏽‍💻 I’m currently working on my personal projects;
 - 🌱 I’m currently learning Angular 16 and Continuous Integration(CircleCI); 

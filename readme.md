@@ -11,7 +11,6 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-[![Jerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jersonsramos)](https://github.com/jersonsramos/github-readme-stats)
 
 - 👨🏽‍💻 I’m currently working on my personal projects;
 - 🌱 I’m currently learning Angular 16 and Continuous Integration(CircleCI); 
@@ -45,6 +44,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=jersonsramos&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jersonsramos&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jersonsramos&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Jerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jersonsramos)](https://github.com/jersonsramos/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

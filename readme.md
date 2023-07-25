@@ -1,16 +1,10 @@
 <!-- Your title -->
 ## Hi, I'm Jerson Ramos, a Developer 🚀 from Bataan, Philippines.
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jersonsramos)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jersonramos/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jerson@innovativesprout.com)
 [![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=internetexplorer&logoColor=white)](https://innovativesprout.com)
-
-&nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -26,9 +20,9 @@ You can use the website to generate badges: https://shields.io/
 
 <h3>Things I code with</h3>
 <p>
-  
   <img alt="laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />

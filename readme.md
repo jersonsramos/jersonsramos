@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jersonsramos)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jersonramos/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jerson@innovativesprout.com)
-[![Website](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=internetexplorer&logoColor=white)](https://innovativesprout.com)
+[![Website](https://img.shields.io/badge/-internetexplorer-c14438?style=flat&logo=internetexplorer&logoColor=white)](https://innovativesprout.com)
 
 &nbsp;
 
@@ -20,9 +20,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on my personal projects;
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I was an I.T. instructor;
+- ⚡️ Fun-Fact: I was working as an I.T. instructor;
 - 📫 How to reach me: jerson@innovativesprout.com;
 
 <h3>Things I code with</h3>
